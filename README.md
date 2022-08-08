@@ -1,1 +1,1 @@
-# Lariat-Profit-Strategy
+# Lariat-Profit-Strategies
